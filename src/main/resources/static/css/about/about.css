@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+html {
+	height: 100%;
+}
+
+body {
+	height: 100%;
+}
+
+.about-wrapper {
+	height: 100vh;
+}
+
+p.title {
+	font-size: 5vw;
+	color: white;
+}
+
+p.outline {
+	font-size: 3vw;
+}
+
+p.description {
+	font-size: 1.6vw;
+}
