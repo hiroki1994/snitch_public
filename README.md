@@ -51,6 +51,16 @@
 
 ![QuickDBD-Snitch20210419](https://user-images.githubusercontent.com/63634976/115809376-f28d6f80-a426-11eb-9693-a6ec462106d4.png)
 
+
+## 制作期間
+
+7ヶ月
+
+## コードカバレッジ率
+
+82.2%
+
+
 ## 会員登録の方法
 
 ![registration](https://user-images.githubusercontent.com/63634976/115824625-31312300-a443-11eb-82fa-3a5e4617e7f3.gif)
